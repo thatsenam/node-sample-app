@@ -1,0 +1,4 @@
+{
+    "mongoUri":"mongodb+srv://marwenFR:Marwen123@cluster-db.xjndn.mongodb.net/cluster-db?retryWrites=true&w=majority",
+    "secretOrKey": "Mysecret"
+}
