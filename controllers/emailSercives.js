@@ -1,7 +1,7 @@
 const nodemailer = require("nodemailer");
 transport = nodemailer.createTransport({
   service: "Gmail",
-  auth: { user: "marwenf947@gmail.com", pass: "22462814aaa " },
+  auth: { user: "thats2enam@gmail.com", pass: "iaenblravmoaxsnt" },
 });
 
 module.exports = supermarketController = {
